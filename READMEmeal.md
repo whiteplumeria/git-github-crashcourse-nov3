@@ -15,3 +15,13 @@ Built with JavaScript, HTML, CSS and SASS.
 ## Future Features and Improvements
 
 - When searching using a meal/ingredient doesn't return any results, display 4 links for popular ingredients and their images. Once the user clicks the link (e.g., chicken), meals will be displayed for that ingredient.
+
+## Demo
+
+Here is a working live demo: .....
+
+## Built with:
+
+- Javascript
+- HTML
+- CSS and SASS
