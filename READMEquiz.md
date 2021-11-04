@@ -16,3 +16,14 @@ This is a simple quiz application that helps to test your geography knowledge. B
 - Add a backend to save user's info.
 - Persist quiz answers to local storage.
 
+## Demo
+
+Here is a working live demo: .....
+
+## Built with:
+
+- Javascript
+- Bootstrap
+- HTML/CSS
+
+
