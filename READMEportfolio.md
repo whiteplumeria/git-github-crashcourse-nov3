@@ -13,3 +13,14 @@ This website was created to showcase some of my projects. Built with JavaScript,
 ## Future Features and Improvements
 
 - Filter projects by technology on Projects page.
+
+## Demo
+
+Here is a working live demo: .....
+
+## Built with:
+
+- Javascript
+- HTML/CSS and SASS
+- Responsive Web Design
+
