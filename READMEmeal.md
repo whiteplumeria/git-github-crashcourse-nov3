@@ -18,7 +18,7 @@ Built with JavaScript, HTML, CSS and SASS.
 
 ## Demo
 
-Here is a working live demo: .....
+Here is a working live demo: https://victoria-codes.com/recipe-finder/
 
 ## Built with:
 
